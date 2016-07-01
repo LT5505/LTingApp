@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LTingApp</string>
+    <string name="label_name">my app portfolio</string>
+    <string name="main_txt_title">My Nanodegree Apps</string>
+    <string name="main_btn_popular_movies">POPULAR MOVIES</string>
+    <string name="main_btn_stock_hawk">STOCK HAWK</string>
+    <string name="main_btn_build">BUILD IT BIGGER</string>
+    <string name="main_btn_material">MAKE YOUR APP MATERIAL</string>
+    <string name="main_btn_go_ubiquitous">GO UBIQUITOUS</string>
+    <string name="main_btn_capstone">CAPSTONE</string>
+</resources>
